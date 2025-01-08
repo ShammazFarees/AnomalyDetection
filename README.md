@@ -88,4 +88,9 @@ new_data = pd.DataFrame({
 
 prediction = pipeline.predict(new_data)
 print(f"Anomaly Prediction: {prediction}")
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+License
+This project is licensed under the MIT License.
 
